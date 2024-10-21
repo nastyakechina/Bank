@@ -1,0 +1,12 @@
+C:\Users\Настюшка\RiderProjects\Bank\Storage\bin\Debug\net8.0\Storage.deps.json
+C:\Users\Настюшка\RiderProjects\Bank\Storage\bin\Debug\net8.0\Storage.dll
+C:\Users\Настюшка\RiderProjects\Bank\Storage\bin\Debug\net8.0\Storage.pdb
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.AssemblyInfoInputs.cache
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.AssemblyInfo.cs
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.dll
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\refint\Storage.dll
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.pdb
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\ref\Storage.dll
+C:\Users\Настюшка\RiderProjects\Bank\Storage\obj\Debug\net8.0\Storage.csproj.AssemblyReference.cache

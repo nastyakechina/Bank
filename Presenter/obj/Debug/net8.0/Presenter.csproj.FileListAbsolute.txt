@@ -1,0 +1,5 @@
+C:\Users\Настюшка\RiderProjects\Bank\Presenter\obj\Debug\net8.0\Presenter.csproj.AssemblyReference.cache
+C:\Users\Настюшка\RiderProjects\Bank\Presenter\obj\Debug\net8.0\Presenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настюшка\RiderProjects\Bank\Presenter\obj\Debug\net8.0\Presenter.AssemblyInfoInputs.cache
+C:\Users\Настюшка\RiderProjects\Bank\Presenter\obj\Debug\net8.0\Presenter.AssemblyInfo.cs
+C:\Users\Настюшка\RiderProjects\Bank\Presenter\obj\Debug\net8.0\Presenter.csproj.CoreCompileInputs.cache

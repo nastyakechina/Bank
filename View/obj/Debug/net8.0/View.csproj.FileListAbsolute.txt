@@ -1,0 +1,15 @@
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.csproj.AssemblyReference.cache
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.AssemblyInfoInputs.cache
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.AssemblyInfo.cs
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.csproj.CoreCompileInputs.cache
+C:\Users\Настюшка\RiderProjects\Bank\View\bin\Debug\net8.0\View.deps.json
+C:\Users\Настюшка\RiderProjects\Bank\View\bin\Debug\net8.0\View.dll
+C:\Users\Настюшка\RiderProjects\Bank\View\bin\Debug\net8.0\View.pdb
+C:\Users\Настюшка\RiderProjects\Bank\View\bin\Debug\net8.0\Storage.dll
+C:\Users\Настюшка\RiderProjects\Bank\View\bin\Debug\net8.0\Storage.pdb
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.csproj.Up2Date
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.dll
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\refint\View.dll
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\View.pdb
+C:\Users\Настюшка\RiderProjects\Bank\View\obj\Debug\net8.0\ref\View.dll
